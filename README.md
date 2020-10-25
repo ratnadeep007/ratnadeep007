@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I am Ratnadeep Bhattacharyya 👋
+![](https://komarev.com/ghpvc/?username=ratnadeep007)
 
 <!--
 **ratnadeep007/ratnadeep007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
