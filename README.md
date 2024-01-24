@@ -1,7 +1,7 @@
 ### Hi, I am Ratnadeep Bhattacharyya 👋
 ![](https://komarev.com/ghpvc/?username=ratnadeep007)
 
-- 🔭 I’m currently working at Dentsu World Services.
+- 🔭 I’m currently working at Tarka Labs.
 - 🌱 I’m currently learning more about WebAssembly, AI (Transformers) and Rust.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with learning Rust, AI.
