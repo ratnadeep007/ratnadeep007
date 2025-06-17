@@ -1,13 +1,12 @@
 ### Hi, I am Ratnadeep Bhattacharyya 👋
 ![](https://komarev.com/ghpvc/?username=ratnadeep007)
 
-- 🔭 I’m currently working at Tarka Labs.
-- 🌱 I’m currently learning more about WebAssembly, AI (Transformers) and Rust.
+- 🔭 I’m currently working at Springboard.
+- 🌱 I’m currently learning more about WebAssembly, AI (Transformers), Rust, Agentic AI.
 - 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with learning Rust, AI.
-- 💬 Ask me about anything related to backend (Node.js, Python) and React.
+- 💬 Ask me about anything related to backend (Node.js, Python), React, LLMs, Agents.
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am avid gamer - Valorant is my current favorite.
+- ⚡ Fun fact: I am avid gamer - Alters is my current favorite.
 - 📫 How to reach me: (Gmail) ratnadeepofghato@gmail.com) -->
 
 **Languages and Tools**
