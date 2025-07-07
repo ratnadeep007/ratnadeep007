@@ -8,7 +8,7 @@
 - 💬 Ask me about anything related to backend (Node.js, Python), React, LLMs, Agents.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am avid gamer - Alters is my current favorite.
-- 📫 How to reach me: (Gmail) ratnadeepofghato@gmail.com) -->
+- 📫 How to reach me: (Gmail) ratnadeepofghato@gmail.com/ratnadeep.bhattacharyya@gmail.com)
 
 **Languages and Tools**
 
