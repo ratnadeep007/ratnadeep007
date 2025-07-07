@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working at Springboard.
 - 🌱 I’m currently learning more about WebAssembly, AI (Transformers), Rust, Agentic AI.
+  - SkyCUA: A computer use agent, written from scratch using OpenAI computer use model  
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about anything related to backend (Node.js, Python), React, LLMs, Agents.
 - 😄 Pronouns: He/His
@@ -11,13 +12,14 @@
 
 **Languages and Tools**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"></code>
-<code><img height="20" src="https://www.rust-lang.org/logos/rust-logo-128x128-blk.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" width="30" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png"></code>
+<code><img height="30" width="30" src="https://www.rust-lang.org/logos/rust-logo-128x128-blk.png"></code>
+
 
 <!-- <a href="https://github.com/ratnadeep007">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnadeep007&theme=dark&hide_langs_below=1" />
